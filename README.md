@@ -2,7 +2,7 @@
 Objetivo do Projeto:
 Classificar músicas como "Música agitada" ou "Música lenta" com base na coluna "valence".
 
-# Estrutura do Projeto
+Estrutura do Projeto
 Leitura e Pré-processamento dos Dados:
 Os dados foram lidos de um arquivo Excel (novos_dados.xlsx).
 As variáveis categóricas, como track_genre, foram codificadas utilizando LabelEncoder.
